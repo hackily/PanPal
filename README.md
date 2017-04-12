@@ -1,10 +1,6 @@
 # PanPal - Your Pantry Pal
 
-<section>
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/718/datas/gallery.jpg" alt="Pantry pal" width="480" height="360">
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/719/datas/gallery.jpg" alt="Pantry inventory" width="480" height="360">
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/721/datas/gallery.jpg" alt="Scanning an item" width="480" height="360">
-</section>
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/718/datas/gallery.jpg" alt="Pantry pal" width="480" height="360"/> <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/719/datas/gallery.jpg" alt="Pantry inventory" width="480" height="360"/> <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/319/721/datas/gallery.jpg" alt="Scanning an item" width="480" height="360"/>
 
 An android application that talks to a UPC database through an API. It also uzes the zxing library to acquire barcodes.
 HackDuke 2015
